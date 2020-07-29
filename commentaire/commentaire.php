@@ -12,7 +12,7 @@
  	<h1>Ajouter un commentaire</h1>
 	<p>
 		<label for="Votre nom"> Prenom</label>
-    	<input type="text" name="Votre nom" id="Votre nom">
+    	<input type="text" name="prenom" id="prenom">
 	</p>
 	<p>
 		<label for="Email">Email</label>

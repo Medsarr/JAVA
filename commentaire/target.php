@@ -5,20 +5,21 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<p> Bienvenu</p>
+	<p> Bienvenu
  	<?php 
- 		echo $_post['prenom'];
- 	?>
- 	<p>
- 		voiçi votre Email
- 		<?php 
- 		echo $_Post['Email'];
+ 		echo $_POST['prenom'];
  	?>
  	</p>
  	<p>
  		voiçi votre Email
  		<?php 
- 		echo $_Post['Email'];
+ 		echo $_POST['Email'];
+ 	?>
+ 	</p>
+ 	<p>
+ 		la page d'acceuil
+ 		<?php 
+ 		echo $_POST['Page dacceuil'];
  	?>
  	</p>
 </body>
